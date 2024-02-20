@@ -1,7 +1,6 @@
 # K-Means - ML algorithm
 
-## K-Means Clustering Implementation 
-This repository contains an implementation of the K-Means clustering algorithm using Python and NumPy.
+Implementation of the K-Means clustering algorithm using Python and NumPy.
 The K-Means algorithm is a popular unsupervised machine learning technique used for clustering data points into groups based on their similarity. 
 
 ## K-Means Algorithm Overview
